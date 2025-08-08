@@ -1,0 +1,6 @@
+name=PandPChess
+author=Somebody Else
+description=Pass and play chess for the playdate!
+bundleID=org.somebodyelse.chess
+version=0.0.1
+buildNumber=1

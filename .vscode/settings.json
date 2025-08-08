@@ -1,0 +1,17 @@
+{
+	"Lua.runtime.version": "Lua 5.4",
+	"Lua.runtime.special": {
+		"import": "require"
+	},
+	"Lua.runtime.nonstandardSymbol": ["+=", "-=", "*=", "/="],
+	"Lua.diagnostics.globals": [
+		"playdate",
+		"json"
+	],
+	"Lua.diagnostics.disable": ["redefined-local"],
+	"Lua.diagnostics.neededFileStatus": {},
+	"Lua.diagnostics.libraryFiles": "Disable",
+	"Lua.completion.callSnippet": "Replace",
+	"Lua.workspace.library": ["/home/ethan/PlaydateSDK-2.7.6/CoreLibs",""],
+	"Lua.workspace.ignoreDir": ["Source/external"]
+}
